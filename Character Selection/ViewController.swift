@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var test = 7
     var selectedImage = "purplepony"
     var selectedAccessory = "spike"
     
